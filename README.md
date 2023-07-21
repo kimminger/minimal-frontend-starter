@@ -16,6 +16,7 @@ and access http://localhost:8001
 ## Browsersync
 
 Tired of all the web server restarts when working on the files?
+
 With Browsersync you have a minimalistic web server that watches for files changes and applies them in your Browser automatically.
 Just install [browsersync](https://www.browsersync.io/) assuming you have [Node.js](https://nodejs.org/en) already installed.
 
